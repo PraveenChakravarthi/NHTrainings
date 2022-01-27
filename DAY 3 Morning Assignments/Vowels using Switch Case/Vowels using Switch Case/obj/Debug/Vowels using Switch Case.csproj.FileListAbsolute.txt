@@ -1,0 +1,8 @@
+C:\Praveen Chakravarthi Projects\Vowels using Switch Case\Vowels using Switch Case\bin\Debug\Vowels using Switch Case.exe.config
+C:\Praveen Chakravarthi Projects\Vowels using Switch Case\Vowels using Switch Case\bin\Debug\Vowels using Switch Case.exe
+C:\Praveen Chakravarthi Projects\Vowels using Switch Case\Vowels using Switch Case\bin\Debug\Vowels using Switch Case.pdb
+C:\Praveen Chakravarthi Projects\Vowels using Switch Case\Vowels using Switch Case\obj\Debug\Vowels using Switch Case.csproj.AssemblyReference.cache
+C:\Praveen Chakravarthi Projects\Vowels using Switch Case\Vowels using Switch Case\obj\Debug\Vowels using Switch Case.csproj.SuggestedBindingRedirects.cache
+C:\Praveen Chakravarthi Projects\Vowels using Switch Case\Vowels using Switch Case\obj\Debug\Vowels using Switch Case.csproj.CoreCompileInputs.cache
+C:\Praveen Chakravarthi Projects\Vowels using Switch Case\Vowels using Switch Case\obj\Debug\Vowels using Switch Case.exe
+C:\Praveen Chakravarthi Projects\Vowels using Switch Case\Vowels using Switch Case\obj\Debug\Vowels using Switch Case.pdb

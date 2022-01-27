@@ -1,0 +1,8 @@
+C:\Praveen Chakravarthi Projects\Reading Numbers using For Each Loop\Reading Numbers using For Each Loop\bin\Debug\Reading Numbers using For Each Loop.exe.config
+C:\Praveen Chakravarthi Projects\Reading Numbers using For Each Loop\Reading Numbers using For Each Loop\bin\Debug\Reading Numbers using For Each Loop.exe
+C:\Praveen Chakravarthi Projects\Reading Numbers using For Each Loop\Reading Numbers using For Each Loop\bin\Debug\Reading Numbers using For Each Loop.pdb
+C:\Praveen Chakravarthi Projects\Reading Numbers using For Each Loop\Reading Numbers using For Each Loop\obj\Debug\Reading Numbers using For Each Loop.csproj.AssemblyReference.cache
+C:\Praveen Chakravarthi Projects\Reading Numbers using For Each Loop\Reading Numbers using For Each Loop\obj\Debug\Reading Numbers using For Each Loop.csproj.SuggestedBindingRedirects.cache
+C:\Praveen Chakravarthi Projects\Reading Numbers using For Each Loop\Reading Numbers using For Each Loop\obj\Debug\Reading Numbers using For Each Loop.csproj.CoreCompileInputs.cache
+C:\Praveen Chakravarthi Projects\Reading Numbers using For Each Loop\Reading Numbers using For Each Loop\obj\Debug\Reading Numbers using For Each Loop.exe
+C:\Praveen Chakravarthi Projects\Reading Numbers using For Each Loop\Reading Numbers using For Each Loop\obj\Debug\Reading Numbers using For Each Loop.pdb

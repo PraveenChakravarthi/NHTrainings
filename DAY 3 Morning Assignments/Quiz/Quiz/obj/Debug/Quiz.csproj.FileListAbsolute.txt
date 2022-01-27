@@ -1,0 +1,8 @@
+C:\Praveen Chakravarthi Projects\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Praveen Chakravarthi Projects\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Praveen Chakravarthi Projects\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Praveen Chakravarthi Projects\Quiz\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\Praveen Chakravarthi Projects\Quiz\Quiz\obj\Debug\Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Praveen Chakravarthi Projects\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Praveen Chakravarthi Projects\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Praveen Chakravarthi Projects\Quiz\Quiz\obj\Debug\Quiz.pdb

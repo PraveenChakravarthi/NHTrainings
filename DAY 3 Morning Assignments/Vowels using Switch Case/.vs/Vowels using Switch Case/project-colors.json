@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cebcaa2e-1221-4f9d-b881-d848e9f6793d": {
+      "ProjectGuid": "cebcaa2e-1221-4f9d-b881-d848e9f6793d",
+      "DisplayName": "Vowels using Switch Case",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
