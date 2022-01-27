@@ -1,0 +1,11 @@
+C:\day 1 assignments by praveen chakravarthi\day1project2 by praveen chakravarthi\day1project2 by praveen chakravarthi\bin\Debug\day1project2 by praveen chakravarthi.exe.config
+C:\day 1 assignments by praveen chakravarthi\day1project2 by praveen chakravarthi\day1project2 by praveen chakravarthi\bin\Debug\day1project2 by praveen chakravarthi.exe
+C:\day 1 assignments by praveen chakravarthi\day1project2 by praveen chakravarthi\day1project2 by praveen chakravarthi\bin\Debug\day1project2 by praveen chakravarthi.pdb
+C:\day 1 assignments by praveen chakravarthi\day1project2 by praveen chakravarthi\day1project2 by praveen chakravarthi\obj\Debug\day1project2 by praveen chakravarthi.csproj.AssemblyReference.cache
+C:\day 1 assignments by praveen chakravarthi\day1project2 by praveen chakravarthi\day1project2 by praveen chakravarthi\obj\Debug\day1project2 by praveen chakravarthi.csproj.SuggestedBindingRedirects.cache
+C:\day 1 assignments by praveen chakravarthi\day1project2 by praveen chakravarthi\day1project2 by praveen chakravarthi\obj\Debug\day1project2_by_praveen_chakravarthi.Form1.resources
+C:\day 1 assignments by praveen chakravarthi\day1project2 by praveen chakravarthi\day1project2 by praveen chakravarthi\obj\Debug\day1project2_by_praveen_chakravarthi.Properties.Resources.resources
+C:\day 1 assignments by praveen chakravarthi\day1project2 by praveen chakravarthi\day1project2 by praveen chakravarthi\obj\Debug\day1project2 by praveen chakravarthi.csproj.GenerateResource.cache
+C:\day 1 assignments by praveen chakravarthi\day1project2 by praveen chakravarthi\day1project2 by praveen chakravarthi\obj\Debug\day1project2 by praveen chakravarthi.csproj.CoreCompileInputs.cache
+C:\day 1 assignments by praveen chakravarthi\day1project2 by praveen chakravarthi\day1project2 by praveen chakravarthi\obj\Debug\day1project2 by praveen chakravarthi.exe
+C:\day 1 assignments by praveen chakravarthi\day1project2 by praveen chakravarthi\day1project2 by praveen chakravarthi\obj\Debug\day1project2 by praveen chakravarthi.pdb
