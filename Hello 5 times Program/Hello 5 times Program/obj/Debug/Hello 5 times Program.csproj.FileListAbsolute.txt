@@ -1,8 +1,0 @@
-C:\Users\Srinivassakilam\Desktop\Praveen Chakravarthi Day 1 Morning Assignments\Hello 5 times Program\Hello 5 times Program\bin\Debug\Hello 5 times Program.exe.config
-C:\Users\Srinivassakilam\Desktop\Praveen Chakravarthi Day 1 Morning Assignments\Hello 5 times Program\Hello 5 times Program\bin\Debug\Hello 5 times Program.exe
-C:\Users\Srinivassakilam\Desktop\Praveen Chakravarthi Day 1 Morning Assignments\Hello 5 times Program\Hello 5 times Program\bin\Debug\Hello 5 times Program.pdb
-C:\Users\Srinivassakilam\Desktop\Praveen Chakravarthi Day 1 Morning Assignments\Hello 5 times Program\Hello 5 times Program\obj\Debug\Hello 5 times Program.csproj.AssemblyReference.cache
-C:\Users\Srinivassakilam\Desktop\Praveen Chakravarthi Day 1 Morning Assignments\Hello 5 times Program\Hello 5 times Program\obj\Debug\Hello 5 times Program.csproj.SuggestedBindingRedirects.cache
-C:\Users\Srinivassakilam\Desktop\Praveen Chakravarthi Day 1 Morning Assignments\Hello 5 times Program\Hello 5 times Program\obj\Debug\Hello 5 times Program.csproj.CoreCompileInputs.cache
-C:\Users\Srinivassakilam\Desktop\Praveen Chakravarthi Day 1 Morning Assignments\Hello 5 times Program\Hello 5 times Program\obj\Debug\Hello 5 times Program.exe
-C:\Users\Srinivassakilam\Desktop\Praveen Chakravarthi Day 1 Morning Assignments\Hello 5 times Program\Hello 5 times Program\obj\Debug\Hello 5 times Program.pdb

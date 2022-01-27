@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92722426-12f0-4a4d-a955-a6da96ff0dc5": {
+      "ProjectGuid": "92722426-12f0-4a4d-a955-a6da96ff0dc5",
+      "DisplayName": "Hello 5 times using while loop",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
