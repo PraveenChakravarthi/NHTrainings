@@ -1,0 +1,8 @@
+C:\day 1 assignments by praveen chakravarthi\Prime Number or Not\Prime Number or Not\bin\Debug\Prime Number or Not.exe.config
+C:\day 1 assignments by praveen chakravarthi\Prime Number or Not\Prime Number or Not\bin\Debug\Prime Number or Not.exe
+C:\day 1 assignments by praveen chakravarthi\Prime Number or Not\Prime Number or Not\bin\Debug\Prime Number or Not.pdb
+C:\day 1 assignments by praveen chakravarthi\Prime Number or Not\Prime Number or Not\obj\Debug\Prime Number or Not.csproj.AssemblyReference.cache
+C:\day 1 assignments by praveen chakravarthi\Prime Number or Not\Prime Number or Not\obj\Debug\Prime Number or Not.csproj.SuggestedBindingRedirects.cache
+C:\day 1 assignments by praveen chakravarthi\Prime Number or Not\Prime Number or Not\obj\Debug\Prime Number or Not.csproj.CoreCompileInputs.cache
+C:\day 1 assignments by praveen chakravarthi\Prime Number or Not\Prime Number or Not\obj\Debug\Prime Number or Not.exe
+C:\day 1 assignments by praveen chakravarthi\Prime Number or Not\Prime Number or Not\obj\Debug\Prime Number or Not.pdb

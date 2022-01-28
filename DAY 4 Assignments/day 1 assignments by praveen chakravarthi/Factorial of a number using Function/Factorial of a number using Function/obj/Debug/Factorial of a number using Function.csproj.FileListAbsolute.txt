@@ -1,0 +1,8 @@
+C:\Praveen Chakravarthi Projects\Factorial of a number using Function\Factorial of a number using Function\bin\Debug\Factorial of a number using Function.exe.config
+C:\Praveen Chakravarthi Projects\Factorial of a number using Function\Factorial of a number using Function\bin\Debug\Factorial of a number using Function.exe
+C:\Praveen Chakravarthi Projects\Factorial of a number using Function\Factorial of a number using Function\bin\Debug\Factorial of a number using Function.pdb
+C:\Praveen Chakravarthi Projects\Factorial of a number using Function\Factorial of a number using Function\obj\Debug\Factorial of a number using Function.csproj.AssemblyReference.cache
+C:\Praveen Chakravarthi Projects\Factorial of a number using Function\Factorial of a number using Function\obj\Debug\Factorial of a number using Function.csproj.SuggestedBindingRedirects.cache
+C:\Praveen Chakravarthi Projects\Factorial of a number using Function\Factorial of a number using Function\obj\Debug\Factorial of a number using Function.csproj.CoreCompileInputs.cache
+C:\Praveen Chakravarthi Projects\Factorial of a number using Function\Factorial of a number using Function\obj\Debug\Factorial of a number using Function.exe
+C:\Praveen Chakravarthi Projects\Factorial of a number using Function\Factorial of a number using Function\obj\Debug\Factorial of a number using Function.pdb

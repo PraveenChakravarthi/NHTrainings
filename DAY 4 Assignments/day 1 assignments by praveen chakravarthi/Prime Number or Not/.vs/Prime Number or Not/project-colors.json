@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6fec7b4d-1a0c-4a6b-921a-e369fba42e65": {
+      "ProjectGuid": "6fec7b4d-1a0c-4a6b-921a-e369fba42e65",
+      "DisplayName": "Prime Number or Not",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

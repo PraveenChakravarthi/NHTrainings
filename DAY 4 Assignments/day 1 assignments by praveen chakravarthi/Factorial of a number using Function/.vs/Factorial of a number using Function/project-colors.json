@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dfbe0214-0272-4104-ab43-cdd5a415c6a8": {
+      "ProjectGuid": "dfbe0214-0272-4104-ab43-cdd5a415c6a8",
+      "DisplayName": "Factorial of a number using Function",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
