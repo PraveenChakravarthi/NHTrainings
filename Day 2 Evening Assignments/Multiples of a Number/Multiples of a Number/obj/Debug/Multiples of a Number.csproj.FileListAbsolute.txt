@@ -6,3 +6,11 @@ C:\Praveen Chakravarthi Projects\Multiples of a Number\Multiples of a Number\obj
 C:\Praveen Chakravarthi Projects\Multiples of a Number\Multiples of a Number\obj\Debug\Multiples of a Number.csproj.CoreCompileInputs.cache
 C:\Praveen Chakravarthi Projects\Multiples of a Number\Multiples of a Number\obj\Debug\Multiples of a Number.exe
 C:\Praveen Chakravarthi Projects\Multiples of a Number\Multiples of a Number\obj\Debug\Multiples of a Number.pdb
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Multiples of a Number\Multiples of a Number\bin\Debug\Multiples of a Number.exe.config
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Multiples of a Number\Multiples of a Number\bin\Debug\Multiples of a Number.exe
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Multiples of a Number\Multiples of a Number\bin\Debug\Multiples of a Number.pdb
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Multiples of a Number\Multiples of a Number\obj\Debug\Multiples of a Number.csproj.AssemblyReference.cache
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Multiples of a Number\Multiples of a Number\obj\Debug\Multiples of a Number.csproj.SuggestedBindingRedirects.cache
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Multiples of a Number\Multiples of a Number\obj\Debug\Multiples of a Number.csproj.CoreCompileInputs.cache
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Multiples of a Number\Multiples of a Number\obj\Debug\Multiples of a Number.exe
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Multiples of a Number\Multiples of a Number\obj\Debug\Multiples of a Number.pdb

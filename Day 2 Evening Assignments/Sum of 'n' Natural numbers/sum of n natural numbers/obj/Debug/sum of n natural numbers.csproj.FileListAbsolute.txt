@@ -6,3 +6,11 @@ C:\Praveen Chakravarthi Projects\sum of n natural numbers\sum of n natural numbe
 C:\Praveen Chakravarthi Projects\sum of n natural numbers\sum of n natural numbers\obj\Debug\sum of n natural numbers.csproj.CoreCompileInputs.cache
 C:\Praveen Chakravarthi Projects\sum of n natural numbers\sum of n natural numbers\obj\Debug\sum of n natural numbers.exe
 C:\Praveen Chakravarthi Projects\sum of n natural numbers\sum of n natural numbers\obj\Debug\sum of n natural numbers.pdb
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Sum of 'n' Natural numbers\sum of n natural numbers\bin\Debug\sum of n natural numbers.exe.config
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Sum of 'n' Natural numbers\sum of n natural numbers\bin\Debug\sum of n natural numbers.exe
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Sum of 'n' Natural numbers\sum of n natural numbers\bin\Debug\sum of n natural numbers.pdb
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Sum of 'n' Natural numbers\sum of n natural numbers\obj\Debug\sum of n natural numbers.csproj.AssemblyReference.cache
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Sum of 'n' Natural numbers\sum of n natural numbers\obj\Debug\sum of n natural numbers.csproj.SuggestedBindingRedirects.cache
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Sum of 'n' Natural numbers\sum of n natural numbers\obj\Debug\sum of n natural numbers.csproj.CoreCompileInputs.cache
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Sum of 'n' Natural numbers\sum of n natural numbers\obj\Debug\sum of n natural numbers.exe
+C:\Praveen Chakravarthi Projects\DAY 2 Evening Assignments\Sum of 'n' Natural numbers\sum of n natural numbers\obj\Debug\sum of n natural numbers.pdb

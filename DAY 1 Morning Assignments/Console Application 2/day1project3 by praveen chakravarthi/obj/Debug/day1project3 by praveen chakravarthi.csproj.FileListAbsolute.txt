@@ -6,3 +6,11 @@ C:\day 1 assignments by praveen chakravarthi\day1project3 by praveen chakravarth
 C:\day 1 assignments by praveen chakravarthi\day1project3 by praveen chakravarthi\day1project3 by praveen chakravarthi\obj\Debug\day1project3 by praveen chakravarthi.csproj.CoreCompileInputs.cache
 C:\day 1 assignments by praveen chakravarthi\day1project3 by praveen chakravarthi\day1project3 by praveen chakravarthi\obj\Debug\day1project3 by praveen chakravarthi.exe
 C:\day 1 assignments by praveen chakravarthi\day1project3 by praveen chakravarthi\day1project3 by praveen chakravarthi\obj\Debug\day1project3 by praveen chakravarthi.pdb
+C:\Praveen Chakravarthi Projects\DAY 1 Morning Assignments\Console Application 2\day1project3 by praveen chakravarthi\bin\Debug\day1project3 by praveen chakravarthi.exe.config
+C:\Praveen Chakravarthi Projects\DAY 1 Morning Assignments\Console Application 2\day1project3 by praveen chakravarthi\bin\Debug\day1project3 by praveen chakravarthi.exe
+C:\Praveen Chakravarthi Projects\DAY 1 Morning Assignments\Console Application 2\day1project3 by praveen chakravarthi\bin\Debug\day1project3 by praveen chakravarthi.pdb
+C:\Praveen Chakravarthi Projects\DAY 1 Morning Assignments\Console Application 2\day1project3 by praveen chakravarthi\obj\Debug\day1project3 by praveen chakravarthi.csproj.AssemblyReference.cache
+C:\Praveen Chakravarthi Projects\DAY 1 Morning Assignments\Console Application 2\day1project3 by praveen chakravarthi\obj\Debug\day1project3 by praveen chakravarthi.csproj.SuggestedBindingRedirects.cache
+C:\Praveen Chakravarthi Projects\DAY 1 Morning Assignments\Console Application 2\day1project3 by praveen chakravarthi\obj\Debug\day1project3 by praveen chakravarthi.csproj.CoreCompileInputs.cache
+C:\Praveen Chakravarthi Projects\DAY 1 Morning Assignments\Console Application 2\day1project3 by praveen chakravarthi\obj\Debug\day1project3 by praveen chakravarthi.exe
+C:\Praveen Chakravarthi Projects\DAY 1 Morning Assignments\Console Application 2\day1project3 by praveen chakravarthi\obj\Debug\day1project3 by praveen chakravarthi.pdb
