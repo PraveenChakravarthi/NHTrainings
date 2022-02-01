@@ -1,8 +1,0 @@
-C:\Praveen Chakravarthi Projects\DAY 7 Morning Assignments\Day7Project1\Day7Project1\bin\Debug\Day7Project1.exe.config
-C:\Praveen Chakravarthi Projects\DAY 7 Morning Assignments\Day7Project1\Day7Project1\bin\Debug\Day7Project1.exe
-C:\Praveen Chakravarthi Projects\DAY 7 Morning Assignments\Day7Project1\Day7Project1\bin\Debug\Day7Project1.pdb
-C:\Praveen Chakravarthi Projects\DAY 7 Morning Assignments\Day7Project1\Day7Project1\obj\Debug\Day7Project1.csproj.AssemblyReference.cache
-C:\Praveen Chakravarthi Projects\DAY 7 Morning Assignments\Day7Project1\Day7Project1\obj\Debug\Day7Project1.csproj.SuggestedBindingRedirects.cache
-C:\Praveen Chakravarthi Projects\DAY 7 Morning Assignments\Day7Project1\Day7Project1\obj\Debug\Day7Project1.csproj.CoreCompileInputs.cache
-C:\Praveen Chakravarthi Projects\DAY 7 Morning Assignments\Day7Project1\Day7Project1\obj\Debug\Day7Project1.exe
-C:\Praveen Chakravarthi Projects\DAY 7 Morning Assignments\Day7Project1\Day7Project1\obj\Debug\Day7Project1.pdb
