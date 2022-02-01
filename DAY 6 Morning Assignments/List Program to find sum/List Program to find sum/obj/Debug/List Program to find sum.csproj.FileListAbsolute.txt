@@ -1,0 +1,8 @@
+C:\Praveen Chakravarthi Projects\DAY 6 Morning Assignments\List Program to find sum\List Program to find sum\bin\Debug\List Program to find sum.exe.config
+C:\Praveen Chakravarthi Projects\DAY 6 Morning Assignments\List Program to find sum\List Program to find sum\bin\Debug\List Program to find sum.exe
+C:\Praveen Chakravarthi Projects\DAY 6 Morning Assignments\List Program to find sum\List Program to find sum\bin\Debug\List Program to find sum.pdb
+C:\Praveen Chakravarthi Projects\DAY 6 Morning Assignments\List Program to find sum\List Program to find sum\obj\Debug\List Program to find sum.csproj.AssemblyReference.cache
+C:\Praveen Chakravarthi Projects\DAY 6 Morning Assignments\List Program to find sum\List Program to find sum\obj\Debug\List Program to find sum.csproj.SuggestedBindingRedirects.cache
+C:\Praveen Chakravarthi Projects\DAY 6 Morning Assignments\List Program to find sum\List Program to find sum\obj\Debug\List Program to find sum.csproj.CoreCompileInputs.cache
+C:\Praveen Chakravarthi Projects\DAY 6 Morning Assignments\List Program to find sum\List Program to find sum\obj\Debug\List Program to find sum.exe
+C:\Praveen Chakravarthi Projects\DAY 6 Morning Assignments\List Program to find sum\List Program to find sum\obj\Debug\List Program to find sum.pdb
