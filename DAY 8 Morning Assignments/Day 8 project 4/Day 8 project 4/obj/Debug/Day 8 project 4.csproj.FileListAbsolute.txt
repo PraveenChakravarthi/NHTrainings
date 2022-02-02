@@ -1,0 +1,7 @@
+C:\Praveen Chakravarthi Projects\DAY 8 Morning Assignments\Day 8 project 4\Day 8 project 4\bin\Debug\Day 8 project 4.exe.config
+C:\Praveen Chakravarthi Projects\DAY 8 Morning Assignments\Day 8 project 4\Day 8 project 4\bin\Debug\Day 8 project 4.exe
+C:\Praveen Chakravarthi Projects\DAY 8 Morning Assignments\Day 8 project 4\Day 8 project 4\bin\Debug\Day 8 project 4.pdb
+C:\Praveen Chakravarthi Projects\DAY 8 Morning Assignments\Day 8 project 4\Day 8 project 4\obj\Debug\Day 8 project 4.csproj.SuggestedBindingRedirects.cache
+C:\Praveen Chakravarthi Projects\DAY 8 Morning Assignments\Day 8 project 4\Day 8 project 4\obj\Debug\Day 8 project 4.csproj.CoreCompileInputs.cache
+C:\Praveen Chakravarthi Projects\DAY 8 Morning Assignments\Day 8 project 4\Day 8 project 4\obj\Debug\Day 8 project 4.exe
+C:\Praveen Chakravarthi Projects\DAY 8 Morning Assignments\Day 8 project 4\Day 8 project 4\obj\Debug\Day 8 project 4.pdb
