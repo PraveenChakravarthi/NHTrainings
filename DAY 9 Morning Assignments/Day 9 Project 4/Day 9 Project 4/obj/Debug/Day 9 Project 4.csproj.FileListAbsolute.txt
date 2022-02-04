@@ -1,0 +1,8 @@
+C:\Duplicate\Day 9\Day 9 Project 4\Day 9 Project 4\bin\Debug\Day 9 Project 4.exe.config
+C:\Duplicate\Day 9\Day 9 Project 4\Day 9 Project 4\bin\Debug\Day 9 Project 4.exe
+C:\Duplicate\Day 9\Day 9 Project 4\Day 9 Project 4\bin\Debug\Day 9 Project 4.pdb
+C:\Duplicate\Day 9\Day 9 Project 4\Day 9 Project 4\obj\Debug\Day 9 Project 4.csproj.AssemblyReference.cache
+C:\Duplicate\Day 9\Day 9 Project 4\Day 9 Project 4\obj\Debug\Day 9 Project 4.csproj.SuggestedBindingRedirects.cache
+C:\Duplicate\Day 9\Day 9 Project 4\Day 9 Project 4\obj\Debug\Day 9 Project 4.csproj.CoreCompileInputs.cache
+C:\Duplicate\Day 9\Day 9 Project 4\Day 9 Project 4\obj\Debug\Day 9 Project 4.exe
+C:\Duplicate\Day 9\Day 9 Project 4\Day 9 Project 4\obj\Debug\Day 9 Project 4.pdb
