@@ -1,0 +1,8 @@
+C:\Day 10 Evening\Day 10 Project 2\Day 10 Project 2\bin\Debug\Day 10 Project 2.exe.config
+C:\Day 10 Evening\Day 10 Project 2\Day 10 Project 2\bin\Debug\Day 10 Project 2.exe
+C:\Day 10 Evening\Day 10 Project 2\Day 10 Project 2\bin\Debug\Day 10 Project 2.pdb
+C:\Day 10 Evening\Day 10 Project 2\Day 10 Project 2\obj\Debug\Day 10 Project 2.csproj.AssemblyReference.cache
+C:\Day 10 Evening\Day 10 Project 2\Day 10 Project 2\obj\Debug\Day 10 Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Day 10 Evening\Day 10 Project 2\Day 10 Project 2\obj\Debug\Day 10 Project 2.csproj.CoreCompileInputs.cache
+C:\Day 10 Evening\Day 10 Project 2\Day 10 Project 2\obj\Debug\Day 10 Project 2.exe
+C:\Day 10 Evening\Day 10 Project 2\Day 10 Project 2\obj\Debug\Day 10 Project 2.pdb
