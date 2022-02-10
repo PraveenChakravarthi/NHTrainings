@@ -1,0 +1,7 @@
+C:\Day 13 Assignments\Day 13 Project 10\Day 13 Project 10\bin\Debug\Day 13 Project 10.exe.config
+C:\Day 13 Assignments\Day 13 Project 10\Day 13 Project 10\bin\Debug\Day 13 Project 10.exe
+C:\Day 13 Assignments\Day 13 Project 10\Day 13 Project 10\bin\Debug\Day 13 Project 10.pdb
+C:\Day 13 Assignments\Day 13 Project 10\Day 13 Project 10\obj\Debug\Day 13 Project 10.csproj.SuggestedBindingRedirects.cache
+C:\Day 13 Assignments\Day 13 Project 10\Day 13 Project 10\obj\Debug\Day 13 Project 10.csproj.CoreCompileInputs.cache
+C:\Day 13 Assignments\Day 13 Project 10\Day 13 Project 10\obj\Debug\Day 13 Project 10.exe
+C:\Day 13 Assignments\Day 13 Project 10\Day 13 Project 10\obj\Debug\Day 13 Project 10.pdb
