@@ -1,0 +1,7 @@
+C:\Day 14 Assignments\Day 14 Project 6\Day 14 Project 6\bin\Debug\Day 14 Project 6.exe.config
+C:\Day 14 Assignments\Day 14 Project 6\Day 14 Project 6\bin\Debug\Day 14 Project 6.exe
+C:\Day 14 Assignments\Day 14 Project 6\Day 14 Project 6\bin\Debug\Day 14 Project 6.pdb
+C:\Day 14 Assignments\Day 14 Project 6\Day 14 Project 6\obj\Debug\Day 14 Project 6.csproj.SuggestedBindingRedirects.cache
+C:\Day 14 Assignments\Day 14 Project 6\Day 14 Project 6\obj\Debug\Day 14 Project 6.csproj.CoreCompileInputs.cache
+C:\Day 14 Assignments\Day 14 Project 6\Day 14 Project 6\obj\Debug\Day 14 Project 6.exe
+C:\Day 14 Assignments\Day 14 Project 6\Day 14 Project 6\obj\Debug\Day 14 Project 6.pdb
