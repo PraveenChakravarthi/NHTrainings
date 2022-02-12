@@ -6,3 +6,11 @@ C:\Day 15 Assignments\Day 15 Project 5\Day 15 Project 5\obj\Debug\Day 15 Project
 C:\Day 15 Assignments\Day 15 Project 5\Day 15 Project 5\obj\Debug\Day 15 Project 5.csproj.CoreCompileInputs.cache
 C:\Day 15 Assignments\Day 15 Project 5\Day 15 Project 5\obj\Debug\Day 15 Project 5.exe
 C:\Day 15 Assignments\Day 15 Project 5\Day 15 Project 5\obj\Debug\Day 15 Project 5.pdb
+C:\Praveen Chakravarthi Projects\DAY 15 Assignments\Day 15 Project 5\Day 15 Project 5\bin\Debug\Day 15 Project 5.exe.config
+C:\Praveen Chakravarthi Projects\DAY 15 Assignments\Day 15 Project 5\Day 15 Project 5\bin\Debug\Day 15 Project 5.exe
+C:\Praveen Chakravarthi Projects\DAY 15 Assignments\Day 15 Project 5\Day 15 Project 5\bin\Debug\Day 15 Project 5.pdb
+C:\Praveen Chakravarthi Projects\DAY 15 Assignments\Day 15 Project 5\Day 15 Project 5\obj\Debug\Day 15 Project 5.csproj.AssemblyReference.cache
+C:\Praveen Chakravarthi Projects\DAY 15 Assignments\Day 15 Project 5\Day 15 Project 5\obj\Debug\Day 15 Project 5.csproj.SuggestedBindingRedirects.cache
+C:\Praveen Chakravarthi Projects\DAY 15 Assignments\Day 15 Project 5\Day 15 Project 5\obj\Debug\Day 15 Project 5.csproj.CoreCompileInputs.cache
+C:\Praveen Chakravarthi Projects\DAY 15 Assignments\Day 15 Project 5\Day 15 Project 5\obj\Debug\Day 15 Project 5.exe
+C:\Praveen Chakravarthi Projects\DAY 15 Assignments\Day 15 Project 5\Day 15 Project 5\obj\Debug\Day 15 Project 5.pdb
