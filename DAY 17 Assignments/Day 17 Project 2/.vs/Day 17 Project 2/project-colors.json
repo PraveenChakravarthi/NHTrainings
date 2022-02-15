@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d42844ec-be47-4834-b65b-b3db06704700": {
+      "ProjectGuid": "d42844ec-be47-4834-b65b-b3db06704700",
+      "DisplayName": "Day 17 Project 2",
+      "ColorIndex": 0
+    },
+    "2b7fab2c-ef88-410d-a064-4c1fe0e6fee8": {
+      "ProjectGuid": "2b7fab2c-ef88-410d-a064-4c1fe0e6fee8",
+      "DisplayName": "ChakriLibrary",
+      "ColorIndex": 1
+    },
+    "3d7c6bb8-5aa6-4b50-8c4f-79bb1773b977": {
+      "ProjectGuid": "3d7c6bb8-5aa6-4b50-8c4f-79bb1773b977",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,2 @@
+C:\Day 17 Assignments\Day 17 Project 2\ChakriLibrary\obj\Debug\ChakriLibrary.csproj.AssemblyReference.cache
+C:\Day 17 Assignments\Day 17 Project 2\ChakriLibrary\obj\Debug\ChakriLibrary.csproj.CoreCompileInputs.cache
