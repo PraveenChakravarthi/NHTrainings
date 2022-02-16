@@ -1,0 +1,6 @@
+C:\Day 18 Assignments\Day 18 Project 1\Math\bin\Debug\Math.dll
+C:\Day 18 Assignments\Day 18 Project 1\Math\bin\Debug\Math.pdb
+C:\Day 18 Assignments\Day 18 Project 1\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+C:\Day 18 Assignments\Day 18 Project 1\Math\obj\Debug\Math.dll
+C:\Day 18 Assignments\Day 18 Project 1\Math\obj\Debug\Math.pdb
+C:\Day 18 Assignments\Day 18 Project 1\Math\obj\Debug\Math.csproj.AssemblyReference.cache

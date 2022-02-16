@@ -1,0 +1,10 @@
+C:\Day 18 Assignments\Day 18 Project 1\MathLibraryTests\bin\Debug\MathLibraryTests.dll
+C:\Day 18 Assignments\Day 18 Project 1\MathLibraryTests\bin\Debug\MathLibraryTests.pdb
+C:\Day 18 Assignments\Day 18 Project 1\MathLibraryTests\bin\Debug\Math.dll
+C:\Day 18 Assignments\Day 18 Project 1\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Day 18 Assignments\Day 18 Project 1\MathLibraryTests\bin\Debug\Math.pdb
+C:\Day 18 Assignments\Day 18 Project 1\MathLibraryTests\obj\Debug\MathLibraryTests.csproj.AssemblyReference.cache
+C:\Day 18 Assignments\Day 18 Project 1\MathLibraryTests\obj\Debug\MathLibraryTests.csproj.CoreCompileInputs.cache
+C:\Day 18 Assignments\Day 18 Project 1\MathLibraryTests\obj\Debug\MathLibraryTests.csproj.CopyComplete
+C:\Day 18 Assignments\Day 18 Project 1\MathLibraryTests\obj\Debug\MathLibraryTests.dll
+C:\Day 18 Assignments\Day 18 Project 1\MathLibraryTests\obj\Debug\MathLibraryTests.pdb

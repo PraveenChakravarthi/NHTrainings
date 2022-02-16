@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fa6ead8b-ab54-498f-8f65-8df467c9e335": {
+      "ProjectGuid": "fa6ead8b-ab54-498f-8f65-8df467c9e335",
+      "DisplayName": "Day 18 Project 1",
+      "ColorIndex": 0
+    },
+    "7ff9b080-c769-4e6d-ae7f-a0ce8d1ca527": {
+      "ProjectGuid": "7ff9b080-c769-4e6d-ae7f-a0ce8d1ca527",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 1
+    },
+    "0f1af203-f9dd-46b8-a9fb-7ef404829d00": {
+      "ProjectGuid": "0f1af203-f9dd-46b8-a9fb-7ef404829d00",
+      "DisplayName": "Math",
+      "ColorIndex": 2
+    },
+    "a3021b2a-0e89-46e3-82eb-a4792f19b788": {
+      "ProjectGuid": "a3021b2a-0e89-46e3-82eb-a4792f19b788",
+      "DisplayName": "MyWindowsApp",
+      "ColorIndex": 3
+    },
+    "07a5043a-dd16-4d6d-a810-374f01dff77d": {
+      "ProjectGuid": "07a5043a-dd16-4d6d-a810-374f01dff77d",
+      "DisplayName": "MathLibraryTests",
+      "ColorIndex": 4
+    },
+    "1038aa27-6b38-41f2-b077-6005009f7ca2": {
+      "ProjectGuid": "1038aa27-6b38-41f2-b077-6005009f7ca2",
+      "DisplayName": "MathLibraryTests1",
+      "ColorIndex": 5
+    },
+    "4d437f79-1586-45a7-87e8-88cdccbca820": {
+      "ProjectGuid": "4d437f79-1586-45a7-87e8-88cdccbca820",
+      "DisplayName": "MathLibraryTests2",
+      "ColorIndex": 6
+    },
+    "405e3553-83d8-4cb8-91de-e25f4278dda1": {
+      "ProjectGuid": "405e3553-83d8-4cb8-91de-e25f4278dda1",
+      "DisplayName": "MathLibraryTests",
+      "ColorIndex": 7
+    },
+    "c4a113a2-0115-41fb-afe1-fc5db2fac4a4": {
+      "ProjectGuid": "c4a113a2-0115-41fb-afe1-fc5db2fac4a4",
+      "DisplayName": "MathLibraryTests4",
+      "ColorIndex": 8
+    },
+    "64399b82-898f-4e5c-8b34-5ee7f6cdf02c": {
+      "ProjectGuid": "64399b82-898f-4e5c-8b34-5ee7f6cdf02c",
+      "DisplayName": "MathLibraryTests",
+      "ColorIndex": 9
+    },
+    "d0af37e0-8777-40ad-9c65-2f830e5e9be1": {
+      "ProjectGuid": "d0af37e0-8777-40ad-9c65-2f830e5e9be1",
+      "DisplayName": "MathLibraryTests",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
