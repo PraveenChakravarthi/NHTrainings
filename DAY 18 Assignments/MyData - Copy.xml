@@ -1,0 +1,12 @@
+<Customers>
+   <Customer ID = "01" Name = "Mahesh" Age = "22" />
+   <Customer ID = "02" Name = "Mahender" Age = "29" />
+   <Customer ID = "03" Name = "Manish" Age = "28" />
+   <Customer ID = "04" Name = "Akhil" Age = "27" />
+   <Customer ID = "05" Name = "Bhanu" Age = "21" />
+   <Customer ID = "06" Name = "Nikhil" Age = "20" />
+   <Customer ID = "07" Name = "Varun" Age = "28" />
+   <Customer ID = "08" Name = "Ravi" Age = "26" />
+   <Customer ID = "09" Name = "Bunty" Age = "23" />
+   <Customer ID = "10" Name = "Chintu" Age = "32" />
+</Customers>
