@@ -1,0 +1,8 @@
+C:\Day 19 Assignments\Day 19 Project 4\Day 19 Project 4\bin\Debug\Day 19 Project 4.exe.config
+C:\Day 19 Assignments\Day 19 Project 4\Day 19 Project 4\bin\Debug\Day 19 Project 4.exe
+C:\Day 19 Assignments\Day 19 Project 4\Day 19 Project 4\bin\Debug\Day 19 Project 4.pdb
+C:\Day 19 Assignments\Day 19 Project 4\Day 19 Project 4\obj\Debug\Day 19 Project 4.csproj.SuggestedBindingRedirects.cache
+C:\Day 19 Assignments\Day 19 Project 4\Day 19 Project 4\obj\Debug\Day 19 Project 4.csproj.CoreCompileInputs.cache
+C:\Day 19 Assignments\Day 19 Project 4\Day 19 Project 4\obj\Debug\Day 19 Project 4.exe
+C:\Day 19 Assignments\Day 19 Project 4\Day 19 Project 4\obj\Debug\Day 19 Project 4.pdb
+C:\Day 19 Assignments\Day 19 Project 4\Day 19 Project 4\obj\Debug\Day 19 Project 4.csproj.AssemblyReference.cache
