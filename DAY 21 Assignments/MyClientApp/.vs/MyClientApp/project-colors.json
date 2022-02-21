@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c98e4eb4-8c82-4152-8ba9-96376e6d3784": {
+      "ProjectGuid": "c98e4eb4-8c82-4152-8ba9-96376e6d3784",
+      "DisplayName": "MyClientApp",
+      "ColorIndex": 0
+    },
+    "2b68e4a7-142a-4fac-bfda-8f0c09cd2a59": {
+      "ProjectGuid": "2b68e4a7-142a-4fac-bfda-8f0c09cd2a59",
+      "DisplayName": "MyClientWindowsApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

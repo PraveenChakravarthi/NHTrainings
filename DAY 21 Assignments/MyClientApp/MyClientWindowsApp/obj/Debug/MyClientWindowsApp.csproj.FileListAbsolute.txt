@@ -1,0 +1,11 @@
+C:\Day 21 Assignments\MyClientApp\MyClientWindowsApp\bin\Debug\MyClientWindowsApp.exe.config
+C:\Day 21 Assignments\MyClientApp\MyClientWindowsApp\bin\Debug\MyClientWindowsApp.exe
+C:\Day 21 Assignments\MyClientApp\MyClientWindowsApp\bin\Debug\MyClientWindowsApp.pdb
+C:\Day 21 Assignments\MyClientApp\MyClientWindowsApp\obj\Debug\MyClientWindowsApp.csproj.AssemblyReference.cache
+C:\Day 21 Assignments\MyClientApp\MyClientWindowsApp\obj\Debug\MyClientWindowsApp.csproj.SuggestedBindingRedirects.cache
+C:\Day 21 Assignments\MyClientApp\MyClientWindowsApp\obj\Debug\MyClientWindowsApp.Form1.resources
+C:\Day 21 Assignments\MyClientApp\MyClientWindowsApp\obj\Debug\MyClientWindowsApp.Properties.Resources.resources
+C:\Day 21 Assignments\MyClientApp\MyClientWindowsApp\obj\Debug\MyClientWindowsApp.csproj.GenerateResource.cache
+C:\Day 21 Assignments\MyClientApp\MyClientWindowsApp\obj\Debug\MyClientWindowsApp.csproj.CoreCompileInputs.cache
+C:\Day 21 Assignments\MyClientApp\MyClientWindowsApp\obj\Debug\MyClientWindowsApp.exe
+C:\Day 21 Assignments\MyClientApp\MyClientWindowsApp\obj\Debug\MyClientWindowsApp.pdb
