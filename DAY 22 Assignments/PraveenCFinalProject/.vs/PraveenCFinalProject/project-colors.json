@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a694b3da-7abe-476a-891d-661da73bfab8": {
+      "ProjectGuid": "a694b3da-7abe-476a-891d-661da73bfab8",
+      "DisplayName": "PraveenCFinalProject",
+      "ColorIndex": 0
+    },
+    "a174b404-11d0-4e82-8829-e662b9a40ac2": {
+      "ProjectGuid": "a174b404-11d0-4e82-8829-e662b9a40ac2",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "ecc713db-77b0-43c8-bcab-d4f0b5d58eb3": {
+      "ProjectGuid": "ecc713db-77b0-43c8-bcab-d4f0b5d58eb3",
+      "DisplayName": "BusinessLogicLayer",
+      "ColorIndex": 2
+    },
+    "1cec0a21-83f6-4308-949f-33f8e666ea5c": {
+      "ProjectGuid": "1cec0a21-83f6-4308-949f-33f8e666ea5c",
+      "DisplayName": "EmployeeManagementApplication",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,13 @@
+C:\Day 22 Project\PraveenCFinalProject\EmployeeManagementApplication\bin\Debug\EmployeeManagementApplication.exe.config
+C:\Day 22 Project\PraveenCFinalProject\EmployeeManagementApplication\bin\Debug\EmployeeManagementApplication.exe
+C:\Day 22 Project\PraveenCFinalProject\EmployeeManagementApplication\bin\Debug\EmployeeManagementApplication.pdb
+C:\Day 22 Project\PraveenCFinalProject\EmployeeManagementApplication\obj\Debug\EmployeeManagementApplication.csproj.AssemblyReference.cache
+C:\Day 22 Project\PraveenCFinalProject\EmployeeManagementApplication\obj\Debug\EmployeeManagementApplication.csproj.SuggestedBindingRedirects.cache
+C:\Day 22 Project\PraveenCFinalProject\EmployeeManagementApplication\obj\Debug\EmployeeManagementApplication.csproj.CoreCompileInputs.cache
+C:\Day 22 Project\PraveenCFinalProject\EmployeeManagementApplication\obj\Debug\EmployeeManagementApplication.exe
+C:\Day 22 Project\PraveenCFinalProject\EmployeeManagementApplication\obj\Debug\EmployeeManagementApplication.pdb
+C:\Day 22 Project\PraveenCFinalProject\EmployeeManagementApplication\bin\Debug\BusinessLogicLayer.dll
+C:\Day 22 Project\PraveenCFinalProject\EmployeeManagementApplication\bin\Debug\DataAccessLayer.dll
+C:\Day 22 Project\PraveenCFinalProject\EmployeeManagementApplication\bin\Debug\BusinessLogicLayer.pdb
+C:\Day 22 Project\PraveenCFinalProject\EmployeeManagementApplication\bin\Debug\DataAccessLayer.pdb
+C:\Day 22 Project\PraveenCFinalProject\EmployeeManagementApplication\obj\Debug\EmployeeManagementApplication.csproj.CopyComplete

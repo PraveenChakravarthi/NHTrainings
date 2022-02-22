@@ -1,0 +1,9 @@
+C:\Day 22 Project\PraveenCFinalProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Day 22 Project\PraveenCFinalProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Day 22 Project\PraveenCFinalProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Day 22 Project\PraveenCFinalProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Day 22 Project\PraveenCFinalProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Day 22 Project\PraveenCFinalProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Day 22 Project\PraveenCFinalProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Day 22 Project\PraveenCFinalProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Day 22 Project\PraveenCFinalProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

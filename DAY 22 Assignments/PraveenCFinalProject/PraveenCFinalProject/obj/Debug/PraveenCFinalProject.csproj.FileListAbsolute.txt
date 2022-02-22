@@ -1,0 +1,8 @@
+C:\Day 22 Project\PraveenCFinalProject\PraveenCFinalProject\bin\Debug\PraveenCFinalProject.exe.config
+C:\Day 22 Project\PraveenCFinalProject\PraveenCFinalProject\bin\Debug\PraveenCFinalProject.exe
+C:\Day 22 Project\PraveenCFinalProject\PraveenCFinalProject\bin\Debug\PraveenCFinalProject.pdb
+C:\Day 22 Project\PraveenCFinalProject\PraveenCFinalProject\obj\Debug\PraveenCFinalProject.csproj.AssemblyReference.cache
+C:\Day 22 Project\PraveenCFinalProject\PraveenCFinalProject\obj\Debug\PraveenCFinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Day 22 Project\PraveenCFinalProject\PraveenCFinalProject\obj\Debug\PraveenCFinalProject.csproj.CoreCompileInputs.cache
+C:\Day 22 Project\PraveenCFinalProject\PraveenCFinalProject\obj\Debug\PraveenCFinalProject.exe
+C:\Day 22 Project\PraveenCFinalProject\PraveenCFinalProject\obj\Debug\PraveenCFinalProject.pdb
