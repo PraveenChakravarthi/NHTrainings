@@ -99,10 +99,10 @@ namespace EmployeeManagementApplication
             Name = Console.ReadLine();
 
             var Result = EmployeeBLL.GetEmployeesByName(Name);
-            if (Result != null)
-                Result.ForEach(d => Console.WriteLine(d));
+            if (Result.Count==0)
+                Console.WriteLine("No Records");
             else
-                Console.WriteLine("No Results");
+                Result.ForEach(d => Console.WriteLine(d));
         }
         /// <summary>
         /// This Method Displays all Employees Data

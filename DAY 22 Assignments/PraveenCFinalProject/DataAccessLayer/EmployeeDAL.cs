@@ -60,18 +60,9 @@ namespace DataAccessLayer
             foreach (var Employee in AllEmployees)
             {
                 var Details = Employee.Split(',');
-                if (Details[1].Contains(Name))
+                 if (Details[1].Contains(Name))
                 {
                     EmployeeFound.Add(Employee);
-                }
-            }
-
-            if (EmployeeFound.Count > 0)
-            {
-                foreach (var Employee in EmployeeFound)
-                {
-                    Console.WriteLine(Employee);
-                    break;
                 }
             }
             return EmployeeFound;

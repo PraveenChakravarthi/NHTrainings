@@ -3,4 +3,3 @@ C:\Day 22 Project\PraveenCFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer
 C:\Day 22 Project\PraveenCFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Day 22 Project\PraveenCFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Day 22 Project\PraveenCFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
-C:\Day 22 Project\PraveenCFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache

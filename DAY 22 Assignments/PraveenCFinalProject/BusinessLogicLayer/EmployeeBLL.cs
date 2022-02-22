@@ -14,8 +14,10 @@ namespace BusinessLogicLayer
         /// <summary>
         /// This Method Adds Employees Data
         /// </summary>
+        
         public static bool AddEmployee(int ID, string Name, int Salary, int Age)
         {
+            
             var Result = EmployeeDAL.AddEmployee(ID, Name, Salary, Age);
             return Result;
         }
